@@ -5,7 +5,6 @@ import pandas as pd
 import json
 import re
 import os
-import openai
 from datetime import date
 from typing import TypedDict, List, Dict, Any
 
